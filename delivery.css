@@ -31,17 +31,18 @@
     height: 400px;
 }
 .body{
-    background-color: rgb(250, 253, 253);
+    background-color: white;
     font-weight: 800;
-    height: 70%;
-    width: 30%;
+    height: 60%;
+    width: 35%;
     margin-top: 100px;
     margin: 100px;
     padding: 20px;
+    box-shadow: rgba(34,45,23) 5px 5px 15px 5px;
 }
 .body h2{
     font-size: 50px;
-    font-weight: 800;
+    font-weight: 600;
 }
 footer{
     display: flex;
@@ -55,6 +56,7 @@ footer a{
 }
 footer h3{
    padding: 20px; 
+   font-size: 30px;
 }
 .empty {
   display: flex;
