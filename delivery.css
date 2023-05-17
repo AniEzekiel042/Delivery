@@ -27,7 +27,7 @@
     color: black;
 }
 .main{
-    background-image: url(../rider.JPG);
+    background-image: url(./rider.JPG);
     height: 400px;
 }
 .body{
